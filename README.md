@@ -1,38 +1,39 @@
-## Hey, I'm Sukhbir
+## Sukhbir
 
-I'm into the defensive side of security — figuring out how attacks work and building things that catch them. Most of my time goes into detection engineering, threat analysis and understanding what attackers actually do once they're inside a network.
+I break down how attacks work and build things that catch them.
 
-I like writing tools from scratch. It forces you to understand the problem properly instead of just running someone else's script.
-
----
-
-### What I'm building
-
-**[SOC Project](https://github.com/Speed-boo3/soc-project)** — Log parser and detection engine with MITRE ATT&CK-mapped rules and live threat intelligence lookups against AbuseIPDB. Wrote it to understand how alert pipelines actually work under the hood.
-
-**[GRC Project](https://github.com/Speed-boo3/grc-project)** — Risk scoring engine with a network scanner that converts open ports directly into risk register entries. Bridges the gap between what the firewall says and what's actually exposed.
+My focus is detection engineering and threat analysis — understanding attacker behaviour at the TTP level and turning that into rules, tools and response workflows that actually hold up.
 
 ---
 
-### What I work with
+### Projects
 
-```
-Python · Bash · YAML · nmap · MITRE ATT&CK · GitHub Actions
-Detection Engineering · Threat Intelligence · Risk Analysis
-```
+**[soc-project](https://github.com/Speed-boo3/soc-project)**
+Log ingestion pipeline with a detection engine mapped to MITRE ATT&CK. Pulls threat intel from AbuseIPDB on every alert. Built to understand how a real alert pipeline works from raw log to analyst output.
 
----
-
-### What I find interesting right now
-
-- Detection engineering and how rules get bypassed
-- Threat actor TTPs and how they map to real infrastructure
-- The gap between what security policies say and what networks actually look like
-- Automating the boring parts of security work
+**[grc-project](https://github.com/Speed-boo3/grc-project)**
+Risk engine that scores exposure using likelihood × impact and feeds nmap scan results directly into the risk register. Closes the gap between what your policy says and what your network actually looks like.
 
 ---
 
-### Currently digging into
+### Stack
 
-SIEM internals, living-off-the-land techniques, and how cloud environments change attacker behaviour.
+`Python` `Bash` `MITRE ATT&CK` `nmap` `GitHub Actions` `YAML`
+
+Detection · Threat Intel · Risk Analysis · Incident Response
+
+---
+
+### What I'm thinking about
+
+→ How attackers blend into normal traffic using living-off-the-land techniques  
+→ Where detection rules fail and why  
+→ The difference between a policy that exists and a control that works  
+→ How cloud-native environments change attacker TTPs
+
+---
+
+### Currently
+
+Working through SIEM internals and building a better understanding of how lateral movement looks in log data.
 
