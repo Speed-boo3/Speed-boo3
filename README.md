@@ -77,16 +77,9 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 
 **Languages and tools**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
-![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnu-bash&logoColor=00ff41)
-![HTML](https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=00ff41)
-![CSS](https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=00ff41)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazon-aws&logoColor=ff9900)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=flat-square&logo=microsoft-azure&logoColor=0089d6)
-![Kali](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kali-linux&logoColor=ffffff)
-![nmap](https://img.shields.io/badge/nmap-0d1117?style=flat-square&logo=linux&logoColor=ffffff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=github-actions&logoColor=ffffff)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,aws,azure,linux,git,docker,vscode,postgres&perline=6" />
+</p>
 
 ---
 
