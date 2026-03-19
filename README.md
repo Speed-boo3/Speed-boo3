@@ -16,13 +16,15 @@
 
 ## Hey, I'm Sukhbir 👋
 
-26 years old. Deeply into cybersecurity.
+26 years old. Cybersecurity is what I do and what I think about.
 
-Not because it looks cool on a CV. Because there is genuinely no other field where the game changes this fast. Every week there is a new attack, a new bypass, a new way someone flipped a misconfiguration into full system access. I find that fascinating.
+No other field moves this fast. New attacks, new bypasses, new ways a single misconfiguration turns into full compromise. That constant change is what hooked me.
 
-I love that this field rewards curiosity over credentials. The best people in security are the ones who keep asking how things actually work under the hood, not just accepting that they do.
+For my bachelor thesis I did a full manual penetration test of a real startup's web application — following OWASP WSTG and NIST SP 800-115. No automated scanner shortcuts. The goal was to find what automated tools miss, and we did. The result was a professional report with real findings, severity ratings and fixes that actually improved their security.
 
-Breaking into systems, hunting threats, digging into cryptographic weaknesses, figuring out how cloud environments get owned. That is what I spend my time on. And building tools that actually catch things, not just check a compliance box.
+I also built a GUI for Volatility 3, a memory forensics tool used in real incident response. Did this in collaboration with a cybersecurity company. Took the lead on design and prototyping. The idea was simple: powerful tools should not require a manual to use.
+
+Now I build detection pipelines, score risks and figure out where defenses actually break down.
 
 <br clear="right"/>
 
