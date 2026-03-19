@@ -78,7 +78,17 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 **Languages and tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,aws,azure,linux,git,docker,vscode,postgres&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,aws,azure,linux,git,docker,vscode,postgres,postman,wireshark&perline=7" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=splunk&logoColor=white&labelColor=000000" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-OpenCTI-000000?style=for-the-badge&logo=statuspage&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
