@@ -30,6 +30,14 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 
 ---
 
+## 🧠 Test your cybersecurity knowledge
+
+[![TAKE THE QUIZ](https://img.shields.io/badge/TAKE%20THE%20QUIZ-%20%20%E2%86%92-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://speed-boo3.github.io/cybersecurity-quiz/)
+
+15 questions covering penetration testing, MITRE ATT&CK, cryptography, cloud security and more. Green light for correct, red for wrong. See your score at the end.
+
+---
+
 ## What I know
 
 <table>
