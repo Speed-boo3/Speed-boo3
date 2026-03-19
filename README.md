@@ -137,3 +137,16 @@ Started this because I kept seeing the same problem — organisations have polic
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=130&section=footer&text=Offense%20informs%20defense.&fontSize=18&fontColor=00ff41&animation=twinkling"/>
 
 </div>
+
+---
+
+## Test your knowledge
+
+<div align="center">
+
+[![Cybersecurity Quiz](https://img.shields.io/badge/🔐_TAKE_THE_CYBER_QUIZ-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117)](https://speed-boo3.github.io/cybersecurity-quiz/)
+
+*15 questions — cryptography, web security, cloud, MITRE ATT&CK, blockchain and more*
+
+</div>
+
