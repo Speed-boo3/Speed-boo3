@@ -20,7 +20,7 @@
 
 No other field moves this fast. New attacks, new bypasses, new ways a single misconfiguration turns into full compromise. That constant change is what hooked me.
 
-For my bachelor thesis I did a full manual penetration test of a real startup's web application — following OWASP WSTG and NIST SP 800-115. No automated scanner shortcuts. The goal was to find what automated tools miss, and we did. The result was a professional report with real findings, severity ratings and fixes that actually improved their security.
+For my bachelor thesis I did a full manual penetration test of a real startup's web application, following OWASP WSTG and NIST SP 800-115. No automated scanner shortcuts. The goal was to find what automated tools miss, and we did. The result was a professional report with real findings, severity ratings and fixes that actually improved their security.
 
 I also built a GUI for Volatility 3, a memory forensics tool used in real incident response. Did this in collaboration with a cybersecurity company. Took the lead on design and prototyping. The idea was simple: powerful tools should not require a manual to use.
 
@@ -55,7 +55,7 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 <td valign="top" width="33%">
 
 **🛡️ Defensive**
-- Threat Intelligence (CTI)
+- Threat Intelligence, CTI
 - Detection Engineering
 - Incident Response
 - Log Analysis
@@ -96,7 +96,7 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 
 ### 🔴 [soc-project](https://github.com/Speed-boo3/soc-project)
 
-I built this because I wanted to understand how alert pipelines actually work — not just use someone else's SIEM. It reads raw log files, parses them by type, runs them through detection rules and fires alerts with MITRE ATT&CK technique IDs attached. Source IPs get checked against AbuseIPDB in real time so every alert comes with a threat intel score.
+I built this because I wanted to understand how alert pipelines actually work, not just use someone else's SIEM. It reads raw log files, parses them by type, runs them through detection rules and fires alerts with MITRE ATT&CK technique IDs attached. Source IPs get checked against AbuseIPDB in real time so every alert comes with a threat intel score.
 
 11 tests. Runs on every push.
 
@@ -106,7 +106,7 @@ I built this because I wanted to understand how alert pipelines actually work �
 
 ### 🟠 [grc-project](https://github.com/Speed-boo3/grc-project)
 
-Started this because I kept seeing the same problem — organisations have policies that say one thing and networks that do another. This project bridges that gap. It scores risks using likelihood × impact, scans the network with nmap and converts exposed ports directly into risk register entries. Then it generates a weekly compliance report mapped to ISO 27001 and NIST CSF.
+Started this because I kept seeing the same problem, organisations have policies that say one thing and networks that do another. This project bridges that gap. It scores risks using likelihood × impact, scans the network with nmap and converts exposed ports directly into risk register entries. Then it generates a weekly compliance report mapped to ISO 27001 and NIST CSF.
 
 13 tests. Reports generated automatically three times a week.
 
@@ -121,7 +121,7 @@ Started this because I kept seeing the same problem — organisations have polic
 → IAM misconfigurations that lead to full cloud compromise
 → Cryptographic weaknesses hiding in production systems
 → Smart contract vulnerabilities and Web3 attack surfaces
-→ Where detection rules fail — and how to make them not fail
+→ Where detection rules fail, and how to make them not fail
 → The difference between a control that exists and a control that works
 ```
 
@@ -154,7 +154,7 @@ Started this because I kept seeing the same problem — organisations have polic
 
 [![Cybersecurity Quiz](https://img.shields.io/badge/🔐_TAKE_THE_CYBER_QUIZ-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117)](https://speed-boo3.github.io/cybersecurity-quiz/)
 
-*15 questions — cryptography, web security, cloud, MITRE ATT&CK, blockchain and more*
+*15 questions covering cryptography, web security, cloud, MITRE ATT&CK, blockchain and more*
 
 </div>
 
