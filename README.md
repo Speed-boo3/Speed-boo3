@@ -16,13 +16,13 @@
 
 ## Hey, I'm Sukhbir 👋
 
-Security is not just a job to me. I got into this field because I wanted to understand how systems actually break, not just how they are supposed to work. That mindset shapes everything I do.
+26 years old. Deeply into cybersecurity.
 
-I work on both sides. I find vulnerabilities before the wrong people do, and I build the tools that catch the ones who get through. Most people pick one lane. I think you need both to be any good at either.
+Not because it looks cool on a CV. Because there is genuinely no other field where the game changes this fast. Every week there is a new attack, a new bypass, a new way someone flipped a misconfiguration into full system access. I find that fascinating.
 
-What keeps me up at night is cryptography and blockchain security, cloud attack paths, and detection engineering. There is something deeply interesting about the way modern cloud environments create new attack surfaces that most defenders have not caught up with yet. And blockchain is still a space where the security fundamentals are being figured out in real time.
+I love that this field rewards curiosity over credentials. The best people in security are the ones who keep asking how things actually work under the hood, not just accepting that they do.
 
-The thing I find most fascinating in this field is the gap between what an organisation thinks its security posture looks like and what it actually is. Policies are easy to write. Making them reflect reality is the hard part.
+Breaking into systems, hunting threats, digging into cryptographic weaknesses, figuring out how cloud environments get owned. That is what I spend my time on. And building tools that actually catch things, not just check a compliance box.
 
 <br clear="right"/>
 
