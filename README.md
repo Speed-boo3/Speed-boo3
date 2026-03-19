@@ -95,23 +95,25 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 
 ## Projects
 
+<p align="center">
+  <a href="https://github.com/Speed-boo3/soc-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Speed-boo3&repo=soc-project&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Speed-boo3/grc-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Speed-boo3&repo=grc-project&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41" />
+  </a>
+</p>
+
 <img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260"/>
 
-### 🔴 [soc-project](https://github.com/Speed-boo3/soc-project)
+**soc-project** — I built this because I wanted to understand how alert pipelines actually work, not just use someone else's SIEM. Parses raw logs, runs them through MITRE ATT&CK-mapped detection rules and checks every source IP against AbuseIPDB in real time.
 
-I built this because I wanted to understand how alert pipelines actually work, not just use someone else's SIEM. It reads raw log files, parses them by type, runs them through detection rules and fires alerts with MITRE ATT&CK technique IDs attached. Source IPs get checked against AbuseIPDB in real time so every alert comes with a threat intel score.
-
-11 tests. Runs on every push.
-
-`Python` · `MITRE ATT&CK` · `AbuseIPDB` · `Detection Engineering` · `Incident Response`
+`Python` · `MITRE ATT&CK` · `AbuseIPDB` · `Detection Engineering`
 
 <br clear="right"/>
 
-### 🟠 [grc-project](https://github.com/Speed-boo3/grc-project)
-
-Started this because I kept seeing the same problem, organisations have policies that say one thing and networks that do another. This project bridges that gap. It scores risks using likelihood × impact, scans the network with nmap and converts exposed ports directly into risk register entries. Then it generates a weekly compliance report mapped to ISO 27001 and NIST CSF.
-
-13 tests. Reports generated automatically three times a week.
+**grc-project** — Built to close the gap between what a security policy says and what a network actually looks like. Scores risks using likelihood × impact, scans for exposed ports with nmap and converts findings directly into risk register entries. Compliance mapped to ISO 27001 and NIST CSF.
 
 `Python` · `nmap` · `ISO 27001` · `NIST CSF` · `Risk Analysis`
 
