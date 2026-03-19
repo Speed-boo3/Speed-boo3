@@ -16,13 +16,13 @@
 
 ## Hey, I'm Sukhbir 👋
 
-I'm a security engineer who spends most of my time figuring out how attacks work — and then using that to build things that actually catch them.
+Security is not just a job to me. I got into this field because I wanted to understand how systems actually break, not just how they are supposed to work. That mindset shapes everything I do.
 
-I believe the best defenders are the ones who think like attackers. So I do both. I break into systems to find what's missing, and I build detection tools to catch what slips through.
+I work on both sides. I find vulnerabilities before the wrong people do, and I build the tools that catch the ones who get through. Most people pick one lane. I think you need both to be any good at either.
 
-Right now my main interests are detection engineering, cloud attack paths, and the security side of cryptography and blockchain. I find the gap between "we have a policy for that" and "our network actually does that" endlessly interesting — and that's pretty much what the GRC project is about.
+What keeps me up at night is cryptography and blockchain security, cloud attack paths, and detection engineering. There is something deeply interesting about the way modern cloud environments create new attack surfaces that most defenders have not caught up with yet. And blockchain is still a space where the security fundamentals are being figured out in real time.
 
-I also enjoy CTFs when I have time. There's something satisfying about a problem that has one correct answer and you just have to find it.
+The thing I find most fascinating in this field is the gap between what an organisation thinks its security posture looks like and what it actually is. Policies are easy to write. Making them reflect reality is the hard part.
 
 <br clear="right"/>
 
