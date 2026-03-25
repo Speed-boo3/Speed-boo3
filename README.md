@@ -132,6 +132,12 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 
 ---
 
+## Activity
+
+<div align="center">
+  <img src="heartbeat.svg" width="100%" alt="Activity"/>
+</div>
+
 ## Stats
 
 <div align="center">
