@@ -132,12 +132,6 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 
 ---
 
-## Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Speed-boo3&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&border_color=00ff41&hide_border=false&custom_title=Contribution+Activity" width="100%"/>
-</div>
-
 ## Stats
 
 <div align="center">
