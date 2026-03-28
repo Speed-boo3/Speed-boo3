@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Sukhbir&fontSize=75&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=I%20break%20things%20to%20understand%20them.%20Then%20I%20build%20better%20defenses.&descAlignY=65&descColor=ffffff&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1a0a,100:003300&height=220&section=header&text=Sukhbir&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20%7C%20Detection%20Engineering%20%7C%20Governance%20%7C%20Cloud%20Security&descAlignY=65&descColor=666666&descSize=14"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=%5BSCAN+COMPLETE%5D+Target+acquired...;%5B*%5D+Penetration+Tester;%5B*%5D+Threat+Hunter+%26+CTI+Analyst;%5B*%5D+Cryptography+%26+Blockchain+Security;%5B*%5D+Cloud+Attack+Paths+%E2%80%94+AWS+%26+Azure;%5B*%5D+Detection+Engineering;%5BSTATUS%5D+Always+learning.+Always+breaking+things."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=Master's+student+in+Cybersecurity;Detection+engineering+%26+MITRE+ATT%26CK;Governance%2C+Risk+%26+Compliance+(GRC);AWS+cloud+security+%26+misconfiguration+scanning;Manual+pentester+%E2%80%94+bachelor+thesis+OWASP+WSTG;Building+tools+that+actually+work"/>
 
 <br/>
 
@@ -12,123 +12,130 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="340"/>
+## Hey, I'm Sukhbir
 
-## Hey, I'm Sukhbir 👋
+26 years old. Cybersecurity master's student. I build detection pipelines, assess risk and hunt for the gaps between what a security policy says and what a system actually does.
 
-26 years old. Cybersecurity is what I do and what I think about.
+For my bachelor thesis I performed a full manual penetration test of a real startup's web application using OWASP WSTG and NIST SP 800-115. No automated scanner shortcuts — the goal was finding what tools miss. The report included real findings, severity ratings and remediation steps that improved their security posture.
 
-No other field moves this fast. New attacks, new bypasses, new ways a single misconfiguration turns into full compromise. That constant change is what hooked me.
+I also built a GUI for Volatility 3, a memory forensics tool used in professional incident response, in collaboration with a cybersecurity company. Powerful tools should not require a manual to use.
 
-For my bachelor thesis I did a full manual penetration test of a real startup's web application, following OWASP WSTG and NIST SP 800-115. No automated scanner shortcuts. The goal was to find what automated tools miss, and we did. The result was a professional report with real findings, severity ratings and fixes that actually improved their security.
-
-I also built a GUI for Volatility 3, a memory forensics tool used in real incident response. Did this in collaboration with a cybersecurity company. Took the lead on design and prototyping. The idea was simple: powerful tools should not require a manual to use.
-
-Now I build detection pipelines, score risks and figure out where defenses actually break down.
-
-<br clear="right"/>
+Now I spend my time building the things I describe in interviews. Every project on this profile has real code, real output and a reason it exists.
 
 ---
 
-## 🧠 Test your cybersecurity knowledge
-
-[![TAKE THE QUIZ](https://img.shields.io/badge/TAKE%20THE%20QUIZ-%20%20%E2%86%92-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41)](https://speed-boo3.github.io/cybersecurity-quiz/)
-
-15 questions covering penetration testing, MITRE ATT&CK, cryptography, cloud security and more. Green light for correct, red for wrong. See your score at the end.
-
----
-
-## What I know
+## What I work with
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-**🔴 Offensive**
-- Penetration Testing
-- Vulnerability Research
-- Web App Security
-- Network Exploitation
-- MITRE ATT&CK
+**Offensive**
+- Manual penetration testing
+- Web application security
+- Vulnerability research
+- MITRE ATT&CK mapping
+- Network exploitation
 
 </td>
 <td valign="top" width="33%">
 
-**🛡️ Defensive**
-- Threat Intelligence, CTI
-- Detection Engineering
-- Incident Response
-- Log Analysis
-- Risk Assessment
+**Defensive**
+- Detection engineering
+- Log analysis and alerting
+- Threat intelligence (CTI)
+- Incident response (NIST 800-61)
+- Brute force and anomaly detection
 
 </td>
 <td valign="top" width="33%">
 
-**🔐 Specialized**
-- Cryptography
-- Blockchain Security
-- Cloud Security (AWS, Azure)
-- ISO 27001 / NIST CSF
-- Cyberdefense
+**Governance**
+- Risk scoring (likelihood x impact)
+- ISO 27001 and NIST CSF
+- Compliance gap analysis
+- Security policy writing
+- Cloud security (AWS, CIS benchmark)
 
 </td>
 </tr>
 </table>
 
-**Languages and tools**
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,bash,html,css,aws,azure,linux,git,docker,vscode,postgres,postman,wireshark&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,bash,aws,linux,git,docker,vscode,postgres,postman&perline=9"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Splunk-black?style=for-the-badge&logo=splunk&logoColor=white&labelColor=000000" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-OpenCTI-000000?style=for-the-badge&logo=statuspage&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Splunk-0d1117?style=flat-square&logo=splunk&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-OpenCTI-0d1117?style=flat-square&logo=statuspage&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Nmap-0d1117?style=flat-square&logo=linux&logoColor=00ff41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Volatility-0d1117?style=flat-square&logo=linux&logoColor=00ff41"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37"/>
 </p>
 
 ---
 
 ## Projects
 
-<p align="center">
-  <a href="https://github.com/Speed-boo3/soc-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Speed-boo3&repo=soc-project&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Speed-boo3/grc-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Speed-boo3&repo=grc-project&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41" />
-  </a>
-</p>
+### SOC + GRC — Security Operations and Governance
 
-<img align="right" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="260"/>
+The project I'm most proud of. Covers both detection engineering and governance — and demonstrates the feedback loop between them. When the SOC detects an attack, that finding feeds the GRC risk register, which updates the policy, which creates a new detection rule.
 
-**soc-project** — I built this because I wanted to understand how alert pipelines actually work, not just use someone else's SIEM. Parses raw logs, runs them through MITRE ATT&CK-mapped detection rules and checks every source IP against AbuseIPDB in real time.
+`Python` `MITRE ATT&CK` `ISO 27001` `NIST CSF` `AbuseIPDB` `nmap` `24 tests passing`
 
-`Python` · `MITRE ATT&CK` · `AbuseIPDB` · `Detection Engineering`
-
-<br clear="right"/>
-
-**grc-project** — Built to close the gap between what a security policy says and what a network actually looks like. Scores risks using likelihood × impact, scans for exposed ports with nmap and converts findings directly into risk register entries. Compliance mapped to ISO 27001 and NIST CSF.
-
-`Python` · `nmap` · `ISO 27001` · `NIST CSF` · `Risk Analysis`
+[![View project](https://img.shields.io/badge/View%20project-→-00ff41?style=flat-square&labelColor=0d1117)](https://github.com/Speed-boo3/soc-grc-project)
+[![Interactive guide](https://img.shields.io/badge/Interactive%20guide-→-00ff41?style=flat-square&labelColor=0d1117)](https://speed-boo3.github.io/soc-grc-project/explain/)
 
 ---
 
-## What I'm thinking about right now
+### SOC Project — Detection Engineering
 
-```
-→ How attackers blend into normal traffic using living-off-the-land techniques
-→ IAM misconfigurations that lead to full cloud compromise
-→ Cryptographic weaknesses hiding in production systems
-→ Smart contract vulnerabilities and Web3 attack surfaces
-→ Where detection rules fail, and how to make them not fail
-→ The difference between a control that exists and a control that works
-```
+Log parsing pipeline, MITRE ATT&CK-mapped alert engine, sliding window brute force detector and AbuseIPDB threat intelligence. Daily automated scans via GitHub Actions. Every alert tells you not just what happened but what tactic the attacker is using.
+
+`Python` `MITRE ATT&CK` `AbuseIPDB` `Detection Engineering` `NIST SP 800-61`
+
+[![View project](https://img.shields.io/badge/View%20project-→-ff4444?style=flat-square&labelColor=0d1117)](https://github.com/Speed-boo3/soc-project)
+[![Interactive guide](https://img.shields.io/badge/Interactive%20guide-→-ff4444?style=flat-square&labelColor=0d1117)](https://speed-boo3.github.io/soc-project/explain/)
+
+---
+
+### GRC Project — Risk and Compliance
+
+Risk matrix, network exposure scanner, ISO 27001 and NIST CSF compliance checklist, security policy templates and automated weekly reports. Validates whether a network actually matches what the security policy says it should.
+
+`Python` `ISO 27001` `NIST CSF` `nmap` `Risk Assessment` `Gap Analysis`
+
+[![View project](https://img.shields.io/badge/View%20project-→-4488ff?style=flat-square&labelColor=0d1117)](https://github.com/Speed-boo3/grc-project)
+[![Interactive guide](https://img.shields.io/badge/Interactive%20guide-→-4488ff?style=flat-square&labelColor=0d1117)](https://speed-boo3.github.io/grc-project/explain/)
+
+---
+
+### Cloud Security — AWS Misconfiguration Scanner
+
+Scans AWS accounts for the misconfigurations that cause real-world data breaches — public S3 buckets, overprivileged IAM users, dangerous security group rules, disabled CloudTrail logging. Mapped to the CIS AWS Foundations Benchmark.
+
+`Python` `AWS boto3` `IAM` `S3` `CloudTrail` `CIS Benchmark`
+
+[![View project](https://img.shields.io/badge/View%20project-→-ff9900?style=flat-square&labelColor=0d1117)](https://github.com/Speed-boo3/cloud-security)
+[![Interactive guide](https://img.shields.io/badge/Interactive%20guide-→-ff9900?style=flat-square&labelColor=0d1117)](https://speed-boo3.github.io/cloud-security/explain/)
+
+---
+
+## Test your knowledge
+
+25 questions across SOC and general cybersecurity — MITRE ATT&CK, cryptography, cloud security, incident response, web application security and more.
+
+<div align="center">
+
+[![Take the quiz](https://img.shields.io/badge/Take%20the%20cybersecurity%20quiz-25%20questions-00ff41?style=for-the-badge&labelColor=0d1117)](https://speed-boo3.github.io/cybersecurity-quiz/)
+
+</div>
 
 ---
 
@@ -136,30 +143,13 @@ Now I build detection pipelines, score risks and figure out where defenses actua
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Speed-boo3&show_icons=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=00ff41&rank_icon=github" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Speed-boo3&background=0d1117&border=00ff41&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Speed-boo3&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&border_color=00ff41"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Speed-boo3&show_icons=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_color=30363d&rank_icon=github&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Speed-boo3&background=0d1117&border=30363d&ring=00ff41&fire=ff4444&currStreakLabel=00ff41&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="49%"/>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003300,100:000000&height=130&section=footer&text=Offense%20informs%20defense.&fontSize=18&fontColor=00ff41&animation=twinkling"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,50:0a1a0a,100:0d1117&height=120&section=footer&text=Offense%20informs%20defense.&fontSize=16&fontColor=00ff41&animation=twinkling"/>
 </div>
-
----
-
-## Test your knowledge
-
-<div align="center">
-
-[![Cybersecurity Quiz](https://img.shields.io/badge/🔐_TAKE_THE_CYBER_QUIZ-00ff41?style=for-the-badge&logoColor=black&labelColor=0d1117)](https://speed-boo3.github.io/cybersecurity-quiz/)
-
-*15 questions covering cryptography, web security, cloud, MITRE ATT&CK, blockchain and more*
-
-</div>
-
