@@ -6,6 +6,8 @@
 
 <br/>
 
+<img src="assets/matrix-banner.svg" width="100%"/>
+
 ![](https://komarev.com/ghpvc/?username=Speed-boo3&color=00ff41&style=flat-square&label=Profile+Views)
 
 </div>
@@ -21,6 +23,12 @@ For my bachelor thesis I performed a full manual penetration test of a real star
 I also built a GUI for Volatility 3, a memory forensics tool used in professional incident response, in collaboration with a cybersecurity company. Powerful tools should not require a manual to use.
 
 Now I spend my time building the things I describe in interviews. Every project on this profile has real code, real output and a reason it exists.
+
+---
+
+<img src="assets/terminal-scan.svg" width="100%"/>
+
+<img src="assets/threat-radar.svg" width="100%"/>
 
 ---
 
@@ -136,6 +144,10 @@ Scans AWS accounts for the misconfigurations that cause real-world data breaches
 [![Take the quiz](https://img.shields.io/badge/Take%20the%20cybersecurity%20quiz-25%20questions-00ff41?style=for-the-badge&labelColor=0d1117)](https://speed-boo3.github.io/cybersecurity-quiz/)
 
 </div>
+
+---
+
+<img src="assets/risk-meter.svg" width="100%"/>
 
 ---
 
