@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a1a0a,100:003300&height=220&section=header&text=Sukhbir&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20%7C%20Detection%20Engineering%20%7C%20Governance%20%7C%20Cloud%20Security&descAlignY=65&descColor=666666&descSize=14"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=Master's+student+in+Cybersecurity;Detection+engineering+%26+MITRE+ATT%26CK;Governance%2C+Risk+%26+Compliance+(GRC);AWS+cloud+security+%26+misconfiguration+scanning;Manual+pentester+%E2%80%94+bachelor+thesis+OWASP+WSTG;Building+tools+that+actually+work"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=680&lines=Building+defenses+by+understanding+attacks;Detection+engineering+%26+MITRE+ATT%26CK;Governance%2C+Risk+%26+Compliance+(GRC);AWS+cloud+security+%26+misconfiguration+scanning;Manual+pentester+%E2%80%94+bachelor+thesis+OWASP+WSTG;Building+tools+that+actually+work"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ## Hey, I'm Sukhbir
 
-26 years old. Cybersecurity master's student. I build detection pipelines, assess risk and hunt for the gaps between what a security policy says and what a system actually does.
+26 years old. I break systems to understand them, then build better defenses. Detection pipelines, risk assessment and hunting for the gap between what a security policy says and what a network actually does.
 
 For my bachelor thesis I performed a full manual penetration test of a real startup's web application using OWASP WSTG and NIST SP 800-115. No automated scanner shortcuts — the goal was finding what tools miss. The report included real findings, severity ratings and remediation steps that improved their security posture.
 
