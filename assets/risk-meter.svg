@@ -1,42 +1,49 @@
-<svg viewBox="0 0 700 100" xmlns="http://www.w3.org/2000/svg" width="700" height="100">
-  <rect width="700" height="100" fill="#0d1117" rx="10"/>
+<svg viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg" width="800" height="110">
+  <rect width="800" height="110" fill="#0d1117" rx="12"/>
+  <text x="20" y="24" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="8" letter-spacing="2">GRC RISK REGISTER — 2026</text>
 
-  <text x="20" y="22" fill="#555" font-family="JetBrains Mono,monospace" font-size="9" letter-spacing="2">GRC RISK REGISTER — LIVE SCORES</text>
-
-  <!-- Risk bars -->
-  <!-- Phishing -->
-  <text x="20" y="44" fill="#888" font-family="JetBrains Mono,monospace" font-size="10">Phishing attack</text>
-  <rect x="160" y="32" width="220" height="14" rx="3" fill="#1a0505"/>
-  <rect x="160" y="32" width="0" height="14" rx="3" fill="#ff4444">
-    <animate attributeName="width" values="0;176" dur="1.5s" fill="freeze" calcMode="ease-out"/>
+  <!-- Phishing: score 20 / Critical -->
+  <text x="20" y="47" fill="#666" font-family="JetBrains Mono,monospace" font-size="10">Phishing attack</text>
+  <rect x="170" y="34" width="380" height="16" rx="4" fill="#111"/>
+  <rect x="170" y="34" width="0" height="16" rx="4" fill="#e53935">
+    <animate attributeName="width" values="0;304" dur="1.6s" fill="freeze" calcMode="ease-out"/>
   </rect>
-  <text x="392" y="44" fill="#ff4444" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">20 CRITICAL</text>
+  <text x="562" y="47" fill="#e53935" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700" opacity="0">
+    20 — CRITICAL
+    <animate attributeName="opacity" values="0;1" begin="1.6s" dur="0.3s" fill="freeze"/>
+  </text>
 
-  <!-- Unpatched -->
-  <text x="20" y="64" fill="#888" font-family="JetBrains Mono,monospace" font-size="10">Unpatched systems</text>
-  <rect x="160" y="52" width="220" height="14" rx="3" fill="#1a0505"/>
-  <rect x="160" y="52" width="0" height="14" rx="3" fill="#ff8800">
-    <animate attributeName="width" values="0;132" dur="1.5s" begin="0.3s" fill="freeze" calcMode="ease-out"/>
+  <!-- Unpatched: score 20 / Critical -->
+  <text x="20" y="70" fill="#666" font-family="JetBrains Mono,monospace" font-size="10">Unpatched systems</text>
+  <rect x="170" y="57" width="380" height="16" rx="4" fill="#111"/>
+  <rect x="170" y="57" width="0" height="16" rx="4" fill="#ff6d00">
+    <animate attributeName="width" values="0;228" dur="1.6s" begin=".25s" fill="freeze" calcMode="ease-out"/>
   </rect>
-  <text x="392" y="64" fill="#ff8800" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">15 HIGH</text>
+  <text x="562" y="70" fill="#ff6d00" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700" opacity="0">
+    15 — HIGH
+    <animate attributeName="opacity" values="0;1" begin="1.85s" dur="0.3s" fill="freeze"/>
+  </text>
 
-  <!-- Insider -->
-  <text x="20" y="84" fill="#888" font-family="JetBrains Mono,monospace" font-size="10">Insider threat</text>
-  <rect x="160" y="72" width="220" height="14" rx="3" fill="#1a0a00"/>
-  <rect x="160" y="72" width="0" height="14" rx="3" fill="#ffcc00">
-    <animate attributeName="width" values="0;88" dur="1.5s" begin="0.6s" fill="freeze" calcMode="ease-out"/>
+  <!-- Insider: score 10 / High -->
+  <text x="20" y="93" fill="#666" font-family="JetBrains Mono,monospace" font-size="10">Insider threat</text>
+  <rect x="170" y="80" width="380" height="16" rx="4" fill="#111"/>
+  <rect x="170" y="80" width="0" height="16" rx="4" fill="#fbbf24">
+    <animate attributeName="width" values="0;152" dur="1.6s" begin=".5s" fill="freeze" calcMode="ease-out"/>
   </rect>
-  <text x="392" y="84" fill="#ffcc00" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">10 HIGH</text>
+  <text x="562" y="93" fill="#fbbf24" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700" opacity="0">
+    10 — HIGH
+    <animate attributeName="opacity" values="0;1" begin="2.1s" dur="0.3s" fill="freeze"/>
+  </text>
 
-  <!-- Right side decorative -->
-  <text x="520" y="44" fill="#444" font-family="JetBrains Mono,monospace" font-size="9">likelihood × impact</text>
-  <text x="520" y="62" fill="#333" font-family="JetBrains Mono,monospace" font-size="9">ISO 27001 / NIST CSF</text>
-  <text x="520" y="80" fill="#333" font-family="JetBrains Mono,monospace" font-size="9">6 risks tracked</text>
-
-  <!-- Pulsing dot -->
-  <circle cx="680" cy="50" r="6" fill="#ff4444" opacity="0.8">
-    <animate attributeName="r" values="6;10;6" dur="1.5s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="1.5s" repeatCount="indefinite"/>
+  <!-- Right panel -->
+  <line x1="700" y1="14" x2="700" y2="96" stroke="#1a2a1a" stroke-width="1"/>
+  <text x="715" y="40" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="9">likelihood</text>
+  <text x="715" y="54" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="9">× impact</text>
+  <text x="715" y="72" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="9">ISO 27001</text>
+  <text x="715" y="86" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="9">NIST CSF</text>
+  <!-- Pulse -->
+  <circle cx="756" cy="22" r="5" fill="#e53935" opacity=".8">
+    <animate attributeName="r" values="4;8;4" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".8;.1;.8" dur="1.8s" repeatCount="indefinite"/>
   </circle>
-  <text x="660" y="75" fill="#333" font-family="JetBrains Mono,monospace" font-size="8">LIVE</text>
 </svg>

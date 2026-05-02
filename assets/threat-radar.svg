@@ -1,62 +1,64 @@
-<svg viewBox="0 0 700 160" xmlns="http://www.w3.org/2000/svg" width="700" height="160">
-  <rect width="700" height="160" fill="#0d1117" rx="10"/>
+<svg viewBox="0 0 800 170" xmlns="http://www.w3.org/2000/svg" width="800" height="170">
+  <rect width="800" height="170" fill="#0d1117" rx="12"/>
 
-  <!-- Left: Radar -->
-  <g transform="translate(120,80)">
-    <circle cx="0" cy="0" r="55" fill="none" stroke="rgba(0,255,65,0.12)" stroke-width="1"/>
-    <circle cx="0" cy="0" r="38" fill="none" stroke="rgba(0,255,65,0.15)" stroke-width="1"/>
-    <circle cx="0" cy="0" r="20" fill="none" stroke="rgba(0,255,65,0.2)" stroke-width="1"/>
-    <line x1="-55" y1="0" x2="55" y2="0" stroke="rgba(0,255,65,0.1)" stroke-width="1"/>
-    <line x1="0" y1="-55" x2="0" y2="55" stroke="rgba(0,255,65,0.1)" stroke-width="1"/>
+  <!-- Radar -->
+  <g transform="translate(110,85)">
+    <circle cx="0" cy="0" r="62" fill="none" stroke="rgba(0,255,65,0.08)" stroke-width="1"/>
+    <circle cx="0" cy="0" r="44" fill="none" stroke="rgba(0,255,65,0.10)" stroke-width="1"/>
+    <circle cx="0" cy="0" r="26" fill="none" stroke="rgba(0,255,65,0.14)" stroke-width="1"/>
+    <circle cx="0" cy="0" r="10" fill="none" stroke="rgba(0,255,65,0.2)" stroke-width="1"/>
+    <line x1="-62" y1="0" x2="62" y2="0" stroke="rgba(0,255,65,0.07)" stroke-width="1"/>
+    <line x1="0" y1="-62" x2="0" y2="62" stroke="rgba(0,255,65,0.07)" stroke-width="1"/>
+    <line x1="-44" y1="-44" x2="44" y2="44" stroke="rgba(0,255,65,0.05)" stroke-width="1"/>
+    <line x1="44" y1="-44" x2="-44" y2="44" stroke="rgba(0,255,65,0.05)" stroke-width="1"/>
 
-    <!-- Radar sweep -->
-    <path d="M 0 0 L 55 0 A 55 55 0 0 0 0 -55 Z" fill="rgba(0,255,65,0.08)">
+    <!-- Sweep -->
+    <path d="M0,0 L62,0 A62,62 0 0,0 0,-62 Z" fill="rgba(0,255,65,0.06)">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="3s" repeatCount="indefinite"/>
     </path>
 
-    <!-- Threat dots that blink -->
-    <circle cx="28" cy="-18" r="4" fill="#ff4444" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="0.8s" repeatCount="indefinite"/>
+    <!-- Threat blips -->
+    <circle cx="32" cy="-20" r="4" fill="#ff4444" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="2.2s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="-35" cy="12" r="3" fill="#ff8800" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1.4s" repeatCount="indefinite"/>
+    <circle cx="-38" cy="14" r="3.5" fill="#ff8800" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="1.5s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="15" cy="42" r="3" fill="#ffcc00" opacity="0">
-      <animate attributeName="opacity" values="0;1;0" dur="2s" begin="2s" repeatCount="indefinite"/>
+    <circle cx="16" cy="48" r="3" fill="#ffcc00" opacity="0">
+      <animate attributeName="opacity" values="0;1;0" dur="1.8s" begin="2.1s" repeatCount="indefinite"/>
     </circle>
-
-    <text x="0" y="75" text-anchor="middle" fill="#444" font-family="JetBrains Mono,monospace" font-size="9" letter-spacing="1">THREAT RADAR</text>
+    <text x="0" y="80" text-anchor="middle" fill="#2a3a2a" font-family="JetBrains Mono,monospace" font-size="8" letter-spacing="1">THREAT RADAR</text>
   </g>
 
-  <!-- Right: Live alert feed -->
-  <g transform="translate(250,0)">
-    <text x="10" y="26" fill="#555" font-family="JetBrains Mono,monospace" font-size="9" letter-spacing="2">LIVE ALERTS</text>
+  <!-- Divider -->
+  <line x1="196" y1="20" x2="196" y2="150" stroke="#1e2d1e" stroke-width="1"/>
 
-    <rect x="10" y="34" width="420" height="22" rx="4" fill="rgba(255,68,68,0.08)" stroke="rgba(255,68,68,0.2)" stroke-width="1">
-      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <text x="20" y="49" fill="#ff4444" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[CRITICAL]</text>
-    <text x="90" y="49" fill="#ccc" font-family="JetBrains Mono,monospace" font-size="10">Brute force SSH — 45.33.32.156 — T1110</text>
+  <!-- Alert feed -->
+  <text x="216" y="34" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="8" letter-spacing="2">LIVE INTEL FEED</text>
 
-    <rect x="10" y="62" width="420" height="22" rx="4" fill="rgba(255,136,0,0.06)" stroke="rgba(255,136,0,0.15)" stroke-width="1"/>
-    <text x="20" y="77" fill="#ff8800" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[HIGH]</text>
-    <text x="70" y="77" fill="#ccc" font-family="JetBrains Mono,monospace" font-size="10">Credential stuffing /login — T1110.004</text>
+  <rect x="212" y="42" width="572" height="22" rx="4" fill="rgba(255,68,68,0.08)" stroke="rgba(255,68,68,0.18)" stroke-width="1">
+    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <text x="222" y="57" fill="#ff4444" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[CRITICAL]</text>
+  <text x="294" y="57" fill="#bbb" font-family="JetBrains Mono,monospace" font-size="10">SSH Brute Force · 45.33.32.156 · T1110 · AbuseIPDB 97%</text>
 
-    <rect x="10" y="90" width="420" height="22" rx="4" fill="rgba(255,204,0,0.06)" stroke="rgba(255,204,0,0.12)" stroke-width="1"/>
-    <text x="20" y="105" fill="#ffcc00" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[MEDIUM]</text>
-    <text x="82" y="105" fill="#ccc" font-family="JetBrains Mono,monospace" font-size="10">Sudo auth failure uid=1003 — T1078</text>
+  <rect x="212" y="70" width="572" height="22" rx="4" fill="rgba(255,136,0,0.06)" stroke="rgba(255,136,0,0.14)" stroke-width="1"/>
+  <text x="222" y="85" fill="#ff8800" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[HIGH]</text>
+  <text x="266" y="85" fill="#bbb" font-family="JetBrains Mono,monospace" font-size="10">Credential Stuffing · /login · T1110.004 · 185.220.101.45</text>
 
-    <rect x="10" y="118" width="420" height="22" rx="4" fill="rgba(68,136,255,0.06)" stroke="rgba(68,136,255,0.12)" stroke-width="1"/>
-    <text x="20" y="133" fill="#4488ff" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[GRC]</text>
-    <text x="65" y="133" fill="#ccc" font-family="JetBrains Mono,monospace" font-size="10">Risk register updated — phishing score: Critical</text>
+  <rect x="212" y="98" width="572" height="22" rx="4" fill="rgba(255,204,0,0.05)" stroke="rgba(255,204,0,0.12)" stroke-width="1"/>
+  <text x="222" y="113" fill="#ffcc00" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[MEDIUM]</text>
+  <text x="286" y="113" fill="#bbb" font-family="JetBrains Mono,monospace" font-size="10">Sudo failure uid=1003 · T1078 · Privilege Escalation</text>
 
-    <!-- Scrolling new alert -->
-    <rect x="10" y="140" width="420" height="16" rx="3" fill="rgba(0,255,65,0.06)">
-      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
-    </rect>
-    <text x="20" y="152" fill="#00ff41" font-family="JetBrains Mono,monospace" font-size="10">
-      <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite"/>
-      [INFO] Daily scan complete — alerts.log updated — 07:00 UTC
-    </text>
-  </g>
+  <rect x="212" y="126" width="572" height="22" rx="4" fill="rgba(41,121,255,0.05)" stroke="rgba(41,121,255,0.12)" stroke-width="1"/>
+  <text x="222" y="141" fill="#4488ff" font-family="JetBrains Mono,monospace" font-size="10" font-weight="700">[GRC]</text>
+  <text x="258" y="141" fill="#bbb" font-family="JetBrains Mono,monospace" font-size="10">Risk register — phishing RISK-002 raised to Critical · score 20</text>
+
+  <rect x="212" y="148" width="572" height="16" rx="3" fill="rgba(0,255,65,0.04)">
+    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="222" y="160" fill="#00ff41" font-family="JetBrains Mono,monospace" font-size="9" opacity="0">
+    [INFO] Daily pipeline complete · alerts.log updated · GitHub Actions · 07:00 UTC
+    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </text>
 </svg>
