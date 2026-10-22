@@ -42,7 +42,7 @@
   </rect>
 
   <text x="400" y="64" text-anchor="middle" fill="#00ff41" font-family="JetBrains Mono,monospace" font-size="26" font-weight="700" letter-spacing="6" filter="url(#glow)">SUKHBIR</text>
-  <text x="400" y="84" text-anchor="middle" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="10" letter-spacing="5">CYBERSECURITY ENGINEER</text>
+  <text x="400" y="84" text-anchor="middle" fill="#2a4a2a" font-family="JetBrains Mono,monospace" font-size="10" letter-spacing="5">CYBERSECURITY</text>
 
   <!-- Fade overlay -->
   <rect width="800" height="130" fill="url(#fade)"/>
