@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,30:0a1a0a,80:0d1a0d,100:060d06&height=190&section=header&text=Sukhbir%20Singh%20Khakh&fontSize=46&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Cybersikkerhet%20%7C%20Pentest%20%7C%20SOC%20%7C%20IoT%20og%20OT&descAlignY=66&descColor=557755&descSize=15"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Graver+til+jeg+forst%C3%A5r+hvordan+ting+svikter;Manuell+penetrasjonstesting;SIEM%2C+logganalyse+og+hendelsesh%C3%A5ndtering;IoT-+og+OT-sikkerhet;Cybersikkerhet+som+alle+kan+l%C3%A6re"/>
-
-<br/>
-
 <img src="assets/matrix-banner.svg" width="100%"/>
 
 </div>
