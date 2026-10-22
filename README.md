@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,30:0a1a0a,80:0d1a0d,100:060d06&height=190&section=header&text=Sukhbir&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Cybersecurity%20%7C%20GRC%20%7C%20OT%20%26%20IoT%20%7C%20Detection&descAlignY=66&descColor=557755&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,30:0a1a0a,80:0d1a0d,100:060d06&height=190&section=header&text=Sukhbir&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Cybersikkerhet%20%7C%20GRC%20%7C%20OT%20og%20IoT%20%7C%20Deteksjon&descAlignY=66&descColor=557755&descSize=15"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Building+defenses+by+understanding+attacks;Governance%2C+risk+and+compliance;OT+and+IoT+security;Detection+engineering+and+SOC+work;Cloud+security+fundamentals"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Bygger+forsvar+ved+%C3%A5+forst%C3%A5+angrep;Styring%2C+risiko+og+etterlevelse;OT-+og+IoT-sikkerhet;Deteksjon+og+SOC-arbeid;Grunnleggende+skysikkerhet"/>
 
 <br/>
 
@@ -12,24 +12,24 @@
 
 ---
 
-## About
+## Om meg
 
-26 years old. I break systems to understand them, then build better defenses.
+26 år gammel. Jeg angriper systemer for å forstå dem, og bygger bedre forsvar etterpå.
 
-My bachelor thesis was a manual penetration test of a real web application, following OWASP WSTG and NIST SP 800-115. I have also built a GUI for Volatility 3, the memory forensics framework, together with a cybersecurity company.
+Bacheloroppgaven min var en manuell penetrasjonstest av en reell webapplikasjon, utført etter OWASP WSTG og NIST SP 800-115. Jeg har også laget et grafisk grensesnitt for Volatility 3, rammeverket for minneforensikk, sammen med et cybersikkerhetsselskap.
 
-I am moving towards governance, risk and compliance and security advisory work, where the job is turning requirements, risk and regulation into something people can actually follow day to day.
+Jeg beveger meg mot styring, risiko og etterlevelse (GRC) og sikkerhetsrådgivning, der jobben er å gjøre krav, risiko og regelverk om til noe folk faktisk kan følge i hverdagen.
 
 ---
 
-## Areas I focus on
+## Fokusområder
 
-| Area | Topics |
+| Område | Temaer |
 |---|---|
-| **GRC and security advisory** | ISO 27001:2022, NIST CSF 2.0, NIS2, GDPR, risk assessment, supplier security |
-| **OT and IoT** | Purdue model, IEC 62443, Modbus, MQTT, OWASP IoT Top 10 |
-| **Detection and SOC** | MITRE ATT&CK, SIEM, log analysis, incident response |
-| **Cloud** | AWS security basics, IAM, CIS benchmark |
+| **GRC og sikkerhetsrådgivning** | ISO 27001:2022, NIST CSF 2.0, NIS2, GDPR, risikovurdering, leverandørsikkerhet |
+| **OT og IoT** | Purdue-modellen, IEC 62443, Modbus, MQTT, OWASP IoT Top 10 |
+| **Deteksjon og SOC** | MITRE ATT&CK, SIEM, logganalyse, hendelseshåndtering |
+| **Sky** | AWS-sikkerhet, IAM, CIS-benchmark |
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws&perline=5"/>
@@ -49,20 +49,20 @@ I am moving towards governance, risk and compliance and security advisory work, 
 
 ---
 
-## Cybersecurity quiz
+## Cybersikkerhetsquiz
 
-A quiz in Norwegian with 40 questions across five areas: GRC and regulation, NIST CSF 2.0, OT and IoT, SOC and detection, and cloud and technical security. Every answer comes with a short explanation, so you learn something even when you get it wrong.
+En quiz med 40 spørsmål fordelt på fem områder: GRC og regelverk, NIST CSF 2.0, OT og IoT, SOC og deteksjon, og sky og teknisk sikkerhet. Hvert svar har en kort forklaring, så du lærer noe selv når du svarer feil.
 
 <div align="center">
 
-[![Take the quiz](https://img.shields.io/badge/Take%20the%20quiz%20%E2%86%92-40%20questions-00ff41?style=for-the-badge&labelColor=0d1117)](https://speed-boo3.github.io/cybersecurity-quiz/)
+[![Ta quizen](https://img.shields.io/badge/Ta%20quizen%20%E2%86%92-40%20sp%C3%B8rsm%C3%A5l-00ff41?style=for-the-badge&labelColor=0d1117)](https://speed-boo3.github.io/cybersecurity-quiz/)
 
 </div>
 
-The source is plain HTML, CSS and JavaScript with no dependencies. See [cybersecurity-quiz](https://github.com/Speed-boo3/cybersecurity-quiz).
+Kildekoden er ren HTML, CSS og JavaScript uten avhengigheter. Se [cybersecurity-quiz](https://github.com/Speed-boo3/cybersecurity-quiz).
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,50:0a1a0a,100:060d06&height=100&section=footer&text=Offense%20informs%20defense.&fontSize=15&fontColor=00ff41&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,50:0a1a0a,100:060d06&height=100&section=footer&text=Angrep%20gir%20bedre%20forsvar.&fontSize=15&fontColor=00ff41&animation=twinkling"/>
 </div>
