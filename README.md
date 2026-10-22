@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,30:0a1a0a,80:0d1a0d,100:060d06&height=190&section=header&text=Sukhbir&fontSize=58&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Cybersikkerhet%20%7C%20GRC%20%7C%20OT%20og%20IoT%20%7C%20Deteksjon&descAlignY=66&descColor=557755&descSize=15"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,30:0a1a0a,80:0d1a0d,100:060d06&height=190&section=header&text=Sukhbir%20Singh%20Khakh&fontSize=46&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Cybersikkerhet%20%7C%20Pentest%20%7C%20SOC%20%7C%20IoT%20og%20OT&descAlignY=66&descColor=557755&descSize=15"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Bygger+forsvar+ved+%C3%A5+forst%C3%A5+angrep;Styring%2C+risiko+og+etterlevelse;OT-+og+IoT-sikkerhet;Deteksjon+og+SOC-arbeid;Grunnleggende+skysikkerhet"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2500&pause=900&color=00FF41&center=true&vCenter=true&width=640&lines=Graver+til+jeg+forst%C3%A5r+hvordan+ting+svikter;Manuell+penetrasjonstesting;SIEM%2C+logganalyse+og+hendelsesh%C3%A5ndtering;IoT-+og+OT-sikkerhet;Cybersikkerhet+som+alle+kan+l%C3%A6re"/>
 
 <br/>
 
@@ -12,46 +12,74 @@
 
 ---
 
-## Om meg
+## Hei
 
-26 år gammel. Jeg angriper systemer for å forstå dem, og bygger bedre forsvar etterpå.
+Jeg har alltid vært den som graver til jeg forstår hvordan ting fungerer, og hvor de kan svikte. Her deler jeg det jeg har lært om cybersikkerhet, slik at flere kan komme i gang.
 
-Bacheloroppgaven min var en manuell penetrasjonstest av en reell webapplikasjon, utført etter OWASP WSTG og NIST SP 800-115. Jeg har også laget et grafisk grensesnitt for Volatility 3, rammeverket for minneforensikk, sammen med et cybersikkerhetsselskap.
+```
+$ whoami
+sukhbir
 
-Jeg beveger meg mot styring, risiko og etterlevelse (GRC) og sikkerhetsrådgivning, der jobben er å gjøre krav, risiko og regelverk om til noe folk faktisk kan følge i hverdagen.
+$ cat interesser.txt
+penetrasjonstesting
+sårbarhetsanalyse
+SIEM og logganalyse
+hendelseshåndtering
+IoT og OT
+Linux
+```
 
 ---
 
-## Fokusområder
+## Det jeg jobber med
 
-| Område | Temaer |
+| Område | Verktøy og temaer |
 |---|---|
-| **GRC og sikkerhetsrådgivning** | ISO 27001:2022, NIST CSF 2.0, NIS2, GDPR, risikovurdering, leverandørsikkerhet |
-| **OT og IoT** | Purdue-modellen, IEC 62443, Modbus, MQTT, OWASP IoT Top 10 |
-| **Deteksjon og SOC** | MITRE ATT&CK, SIEM, logganalyse, hendelseshåndtering |
-| **Sky** | AWS-sikkerhet, IAM, CIS-benchmark |
+| **Sikkerhetstesting** | Kali Linux, Burp Suite, OWASP ZAP, Metasploit, Nmap, Wireshark, MobSF, Frida, Objection, jadx-gui, Volatility 3, manuell kodegjennomgang |
+| **SIEM og analyse** | Splunk, logganalyse, trusseldeteksjon, hendelseshåndtering |
+| **Sky og plattformer** | AWS, Azure, VMware, VirtualBox, Linux, OpenCTI |
+| **Programmering** | Python, Bash, JavaScript, MySQL, HTML og CSS, Git |
+| **Rammeverk** | OWASP, MITRE ATT&CK, NIST SP 800-115, ISO 27001, NSMs Grunnprinsipper |
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,bash,linux,git,aws&perline=5"/>
-</p>
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Splunk-0d1117?style=flat-square&logo=splunk&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=linux&logoColor=00ff41"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OpenCTI-0d1117?style=flat-square&logo=statuspage&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Volatility_3-0d1117?style=flat-square&logo=linux&logoColor=00ff41"/>
-</p>
+## Prosjekter
+
+**Penetrasjonstest av en webapplikasjon (bachelorprosjekt, 2025)**
+Manuell test av en reell webapplikasjon for en oppstartsbedrift, etter OWASP WSTG og NIST SP 800-115. Funnene lå innen tilgangskontroll, sikkerhetskonfigurasjon og databeskyttelse, og endte i en rapport med CVSS-vurdering, risikoanalyse og anbefalte tiltak. Verktøy: Burp Suite, Nmap, ffuf og manuell kodegjennomgang. Detaljer og funn er taushetsbelagt.
+
+**Grafisk grensesnitt for Volatility 3 (teamprosjekt, 2024)**
+Moderne GUI for minneforensikkverktøyet Volatility 3, laget i samarbeid med et sikkerhetsselskap. Jeg hadde en sentral rolle i ideutvikling, design, prototyping og prosjektledelse.
+
+---
+
+## Kurs
+
+| Kurs | Tilbyder | Tidspunkt |
+|---|---|---|
+| Practical Ethical Hacking | TCM Security | jan. til feb. 2025 |
+| Security Operations (SOC) 101 | TCM Security | jan. til feb. 2025 |
+| Practical Bug Bounty | TCM Security | mar. til mai 2025 |
+| OSCP+ forberedelseskurs (Red Team) | Udemy | okt. 2025 |
+| AI: Risk and Cyber Security | Udemy | juli til aug. 2024 |
+
+---
+
+## Kom i gang selv
+
+En vei inn i faget som er lett å følge. Øv alltid bare på systemer du har lov til å teste.
+
+1. **Grunnlaget:** lær Linux og nettverk først. Alt annet bygger på det.
+2. **Forstå angrep:** [Practical Ethical Hacking](https://academy.tcm-sec.com) er et godt sted å begynne.
+3. **Øv lovlig:** [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/), [PortSwigger Web Security Academy](https://portswigger.net/web-security) og [Hack The Box](https://www.hackthebox.com).
+4. **Lær å se angrep:** bruk [MITRE ATT&CK](https://attack.mitre.org) som kart, og prøv en SIEM som Splunk.
+5. **Forstå rammeverkene:** [NIST CSF 2.0](https://www.nist.gov/cyberframework), [OWASP WSTG](https://owasp.org/www-project-web-security-testing-guide/) og [NSM](https://nsm.no).
 
 ---
 
 ## Cybersikkerhetsquiz
 
-En quiz med 40 spørsmål fordelt på fem områder: GRC og regelverk, NIST CSF 2.0, OT og IoT, SOC og deteksjon, og sky og teknisk sikkerhet. Hvert svar har en kort forklaring, så du lærer noe selv når du svarer feil.
+Test deg selv med 40 spørsmål fordelt på fem områder: GRC og regelverk, NIST CSF 2.0, OT og IoT, SOC og deteksjon, og sky og teknisk sikkerhet. Hvert svar har en kort forklaring.
 
 <div align="center">
 
@@ -59,9 +87,11 @@ En quiz med 40 spørsmål fordelt på fem områder: GRC og regelverk, NIST CSF 2
 
 </div>
 
-Kildekoden er ren HTML, CSS og JavaScript uten avhengigheter. Se [cybersecurity-quiz](https://github.com/Speed-boo3/cybersecurity-quiz).
+Kildekoden er ren HTML, CSS og JavaScript. Se [cybersecurity-quiz](https://github.com/Speed-boo3/cybersecurity-quiz).
 
 ---
+
+**Språk:** norsk (flytende), engelsk (flytende), punjabi (morsmål)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d06,50:0a1a0a,100:060d06&height=100&section=footer&text=Angrep%20gir%20bedre%20forsvar.&fontSize=15&fontColor=00ff41&animation=twinkling"/>
